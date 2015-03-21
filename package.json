@@ -1,0 +1,24 @@
+{
+  "name": "sherry-preprocessor-replace",
+  "version": "0.0.1",
+  "description": "A sherry preprocessor for replace vars with fis.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/ut --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ccqgithub/sherry.git"
+  },
+  "keywords": [
+    "sherry-preprocessor-replace",
+    "sherry",
+    "fis"
+  ],
+  "author": {
+    "name": "season.chen"
+  },
+  "license": "BSD",
+  "dependencies": {
+  }
+}
