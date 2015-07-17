@@ -1,17 +1,18 @@
 {
   "name": "sherry-preprocessor-replace",
-  "version": "0.0.1",
-  "description": "A sherry preprocessor for replace vars with fis.",
+  "version": "0.0.2",
+  "description": "fis 插件，作用于preprocessor阶段。预定义常量替换，主要用于sherry-web。",
   "main": "index.js",
   "scripts": {
     "test": "mocha test/ut --recursive"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ccqgithub/sherry.git"
+    "url": "https://github.com/ccqgithub/sherry-preprocessor-replace.git"
   },
   "keywords": [
     "sherry-preprocessor-replace",
+    "sherry-web",
     "sherry",
     "fis"
   ],
