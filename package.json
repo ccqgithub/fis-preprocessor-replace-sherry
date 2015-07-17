@@ -1,6 +1,6 @@
 {
   "name": "sherry-preprocessor-replace",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "fis 插件，作用于preprocessor阶段。预定义常量替换，主要用于sherry-web。",
   "main": "index.js",
   "scripts": {

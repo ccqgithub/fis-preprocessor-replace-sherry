@@ -13,8 +13,14 @@ fis 插件，作用于preprocessor阶段。
     fis.config.set('settings.preprocessor.replace', {
         vars: [
             {
-                from: /__ROOT__/g,
+                from: /__VAR_A__/g,
                 to: 'http://dev.sherryui.com'
+            },
+            {
+                from: /__VAR_B__/g,
+                to: function(word, $1, $2) {
+                    return 'replace_str';
+                }
             }
         ]
     });
