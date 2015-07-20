@@ -1,4 +1,4 @@
-sherry 
+fis-preprocessor-replace-sherry
 ====
 
 fis 插件，作用于preprocessor阶段。
