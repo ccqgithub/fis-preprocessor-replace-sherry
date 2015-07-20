@@ -1,6 +1,6 @@
 {
-  "name": "sherry-preprocessor-replace",
-  "version": "0.0.3",
+  "name": "fis-preprocessor-replace-sherry",
+  "version": "0.0.4",
   "description": "fis 插件，作用于preprocessor阶段。预定义常量替换，主要用于sherry-web。",
   "main": "index.js",
   "scripts": {
@@ -8,10 +8,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ccqgithub/sherry-preprocessor-replace.git"
+    "url": "https://github.com/ccqgithub/fis-preprocessor-replace-sherry.git"
   },
   "keywords": [
-    "sherry-preprocessor-replace",
+    "fis-preprocessor-replace-sherry",
     "sherry-web",
     "sherry",
     "fis"
